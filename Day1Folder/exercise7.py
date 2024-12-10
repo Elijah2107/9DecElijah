@@ -11,5 +11,3 @@ Variables to create:
 Print out your calculation for a, b and c
 '''
 #Write your code below this line
-
-

@@ -16,3 +16,9 @@ name = "Johnson"
 command = "eat cake"
 
 #Example Output: Emperor Johnson commands his peasants to eat cake!
+
+title = "Principal"
+name = "David"
+command = "kill the ender dragon"
+
+print(title + name + " commands his students to " + command + " in Minecraft")

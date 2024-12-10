@@ -13,3 +13,7 @@ x = 5
 y = 10
 
 #Write your code below this line
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
